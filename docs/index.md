@@ -8,9 +8,7 @@
 - 📚 [4] [Fluid Mechanics: Fundamentals and Applications — Yunus A. Çengel, John M. Cimbala](https://drive.google.com/file/d/1Zpas6mXxbv7Ea4JJrNZEayfIByAJ2ohQ/view?usp=drive_link)
 - 📚 [ამოცანები — Solving Problems in Food Engineering](https://drive.google.com/file/d/1BTXHiRz2UQhHajCZX2andk_aehIAGzlp/view?usp=share_link)
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
-- 📝 [რადიაციის ამოცანები](https://docs.google.com/document/d/1L3wtPMvHVsCcy3gFn36cxvApzeZddLfC/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
-- 📄 [შუალედური 2 — აღდგენა](https://docs.google.com/document/d/1XiQyK6zHj84FQ4QyE1oTb-q_2ZBOb2dy/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
-- 📄 [შუალედური 3 — აღდგენა](https://docs.google.com/document/d/1cYNDGzbKSPHVS8iOCMBEdG8knncmgTPK/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+
 
 ---
 
