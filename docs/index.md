@@ -9,6 +9,13 @@
 - 📚 [ამოცანები — Solving Problems in Food Engineering](https://drive.google.com/file/d/1BTXHiRz2UQhHajCZX2andk_aehIAGzlp/view?usp=share_link)
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
+### ლექცია/სემინარი 2 — თბოგადაცემის ტიპები: კონდუქცია, კონვექცია, რადიაცია
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1PFvkIAXj4jjW4a2-oJPYH9IY_ziVf-1Z/view?usp=drive_link)
+- 📝 დავალება:
+  - [1] წიგნიდან წაიკითხეთ თავები 4.2, 4.3, 4.4.
+  - [5] წიგნიდან წაიკითხეთ თავები 7.1–7.2.
+- 📝 [ამოცანები](https://docs.google.com/document/d/1ehD7UveL66KMiPPaBK_wyHXcqm0fHmEj/edit?ouid=114341411525359450064&rtpof=true&sd=true&usp=drive_link)
 
 ---
 
