@@ -9,6 +9,16 @@
 - 📚 [ამოცანები — Solving Problems in Food Engineering](https://drive.google.com/file/d/1BTXHiRz2UQhHajCZX2andk_aehIAGzlp/view?usp=share_link)
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
+
+### ლექცია/სემინარი 4/5 — კონდუქცია რადიალურ სისტემებში; კონვექციური და შერეული თბოგადაცემა
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1OAel9EugErcqCoy_bpnmpxCr3kOqVhwp/view?usp=drive_link)
+- 📝 დავალება:
+  - [1] წიგნიდან წაიკითხეთ თავები 7.1, 7.2, 7.3.1, 7.3.2, 7.3.3.
+  - [2] წიგნიდან წაიკითხეთ თავი 4.4.
+- 📝 [ამოცანები — კონდუქცია](https://docs.google.com/document/d/1MI8eSLxTxmvIeB5Hm8XeodtCf8acivmF/edit?ouid=114341411525359450064&rtpof=true&sd=true&usp=drive_link)
+- 📝 [ამოცანები — შერეული კონდუქცია/კონვექცია](https://docs.google.com/document/d/1ULL4_bt7o68PgyI_4ghFOycrRfI_Dh8G/edit?ouid=114341411525359450064&rtpof=true&sd=true&usp=drive_link)
+
 ### ლექცია/სემინარი 3 — კონდუქცია კომპოზიტურ კედლებში
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1p3JU96RRBbVnBrMteSXWEX4hDuWPwfCl/view?usp=drive_link)
