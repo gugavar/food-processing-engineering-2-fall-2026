@@ -10,7 +10,8 @@
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
 ---
-- 📄 [წინა წლის შუალედური გამოცდა](https://docs.google.com/document/d/1coP12Vt0dKrQgXgmzQmpuoVszik664BF/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+- 📄 [წინა წლის შუალედური გამოცდა 2024](https://docs.google.com/document/d/1coP12Vt0dKrQgXgmzQmpuoVszik664BF/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
+- 📄 [წინა წლის შუალედური გამოცდა 2025](https://docs.google.com/document/d/1wHDG5eiwZ-_-B1pdfyxj0108aoHEkg67/edit?usp=drive_link&ouid=110148669605332798451&rtpof=true&sd=true)
 
 ### ლექცია/სემინარი 4/5 — კონდუქცია რადიალურ სისტემებში; კონვექციური და შერეული თბოგადაცემა
 
