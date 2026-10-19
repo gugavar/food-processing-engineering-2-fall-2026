@@ -9,6 +9,8 @@
 - 📚 [ამოცანები — Solving Problems in Food Engineering](https://drive.google.com/file/d/1BTXHiRz2UQhHajCZX2andk_aehIAGzlp/view?usp=share_link)
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
+---
+- 📄 [წინა წლის შუალედური გამოცდა](https://docs.google.com/document/d/1coP12Vt0dKrQgXgmzQmpuoVszik664BF/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
 
 ### ლექცია/სემინარი 4/5 — კონდუქცია რადიალურ სისტემებში; კონვექციური და შერეული თბოგადაცემა
 
