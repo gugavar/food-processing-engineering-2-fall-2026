@@ -10,6 +10,13 @@
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
 ---
+### ლექცია/სემინარი 6 — სითბომცვლელები: ლოგ საშუალო ტემპერატურის სხვაობის (LMTD) მეთოდი
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/13SCT_DCB_mgJ3_B974BKoSwldI2FW_WI/view?usp=drive_link)
+- 📝 დავალება: [2] წიგნიდან წაიკითხეთ თავები 6.1–6.4 და 11.1–11.3.
+- 📝 [ამოცანები](https://docs.google.com/document/d/1kPMsFKpzVJnZCjJLF29hbgQ_7gESxF-h/edit?ouid=109332440741070720191&rtpof=true&sd=true&usp=drive_link)
+
+
 - 📄 [წინა წლის შუალედური გამოცდა 2024](https://docs.google.com/document/d/1coP12Vt0dKrQgXgmzQmpuoVszik664BF/edit?ouid=110148669605332798451&rtpof=true&sd=true&usp=drive_link)
 - 📄 [წინა წლის შუალედური გამოცდა 2025](https://docs.google.com/document/d/1wHDG5eiwZ-_-B1pdfyxj0108aoHEkg67/edit?usp=drive_link&ouid=110148669605332798451&rtpof=true&sd=true)
 
