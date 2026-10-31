@@ -10,6 +10,13 @@
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
 ---
+
+### ლექცია 7 — სითბომცვლელები: ლოგ საშუალო ტემპერატურის სხვაობის (LMTD) მეთოდი 
+
+- 🖥️ [6-7 ლექციების სრული სქრინი ](https://drive.google.com/file/d/1P9XDNXemhpDMOEi_dThbmPmHR_XEJvlF/view?usp=drive_link)
+- 📚 [Heat Exchangers — თავი](https://drive.google.com/file/d/1U-Xj5T8qJb3z3-0imJx0kBb7k4OnKc45/view?usp=drive_link)
+- 📝 დავალება: [2] წიგნიდან ამოხსენით ამოცანები: 47, 48, 50, 53, 78, 79.
+
 ### ლექცია/სემინარი 6 — სითბომცვლელები: ლოგ საშუალო ტემპერატურის სხვაობის (LMTD) მეთოდი
 
 - 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1ZHJEsGGC2yuSXj8SFcwydwqcbgmeBfav/view?usp=drive_link)
