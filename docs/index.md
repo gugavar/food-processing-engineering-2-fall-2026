@@ -10,6 +10,13 @@
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
 ---
+### ლექცია 8 — სითბომცვლელები: ეფსილონ-NTU მეთოდი
+
+- 🖥️ [სქრინი]()
+- 📚 [Heat Exchangers — თავი](https://drive.google.com/file/d/1U-Xj5T8qJb3z3-0imJx0kBb7k4OnKc45/view?usp=drive_link)
+- 📖 [2] წიგნიდან წაიკითხეთ თავები 11.4–11.6.
+- 📝 დავალება: სითბომცვლელების წიგნის თავის ამოცანებიდან ამოხსენით: 104, 110, 111, 121, 123, 126.
+
 
 ### ლექცია 7 — სითბომცვლელები: ლოგ საშუალო ტემპერატურის სხვაობის (LMTD) მეთოდი 
 
