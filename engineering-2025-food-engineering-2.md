@@ -39,7 +39,7 @@
 - 📝 დავალება: [1] წიგნიდან წაიკითხეთ თავები 9.1, 9.2, 9.3.
 - 📝 [ამოცანები](https://docs.google.com/document/d/1ag_GYxjy9YAAhJJbVmeHOBtL2VwavzXp/edit?ouid=109332440741070720191&rtpof=true&sd=true&usp=drive_link)
 
-### ლექცია 8
+### ლექცია 8  სითბომცვლელები: ეფსილონ-NTU მეთოდი
 
 - 🖥️ [სქრინი — გარჩეული ამოცანები](https://drive.google.com/file/d/1Mx238bOT-E9hcZdAl4eH6w9rSiOxxCGU/view?usp=drive_link)
 - 📖 [2] წიგნიდან წაიკითხეთ თავები 11.4–11.6.
