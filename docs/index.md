@@ -10,6 +10,7 @@
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
 ---
+
 ### ლექცია 10 — ფსიქრომეტრია: ფსიქრომეტრიული დიაგრამა - დატენიანება, ტენის მოშორება, გათბობა და გაგრილება. 
 
 - 📊 [სლაიდები](https://drive.google.com/file/d/1gsfTJa2oqCEC0BRb7DRxEH-Lxvvd4jSt/view?usp=drive_link)
