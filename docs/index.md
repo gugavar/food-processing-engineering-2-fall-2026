@@ -10,6 +10,19 @@
 - 📚 [თერმოდინამიკის წიგნი — Thermodynamics: An Engineering Approach](https://drive.google.com/file/d/1yE8xhtH37rxvtgogK9Cs60tKmCRgruip/view?usp=drive_link)
 
 ---
+### ლექცია 10 — ფსიქრომეტრია: ფსიქრომეტრიული დიაგრამა - დატენიანება, ტენის მოშორება, გათბობა და გაგრილება. 
+
+- 📊 [სლაიდები](https://drive.google.com/file/d/1gsfTJa2oqCEC0BRb7DRxEH-Lxvvd4jSt/view?usp=drive_link)
+- 🧪 [ფსიქრომეტრიული დიაგრამა](https://drajmarsh.bitbucket.io/psychro-chart2d.html)
+- 📝 დავალება: [2] წიგნიდან წაიკითხეთ თავი 9.4.
+- 📝 [ამოცანები](https://docs.google.com/document/d/1a7hPQI28yzr2X7pHBuENqzb7kgFAZk84/edit?ouid=109332440741070720191&rtpof=true&sd=true&usp=drive_link)
+
+### ლექცია 9 — ფსიქრომეტრია: წყლის ორთქლის თვისებები
+
+- 🖥️ [ლექციის სქრინი](https://drive.google.com/file/d/1TjxqZB4nZl0mSy8bndSVtF-Z-sD4pSPb/view?usp=drive_link)
+- 📝 დავალება: [1] წიგნიდან წაიკითხეთ თავები 9.1, 9.2, 9.3.
+- 📝 [ამოცანები](https://docs.google.com/document/d/1ag_GYxjy9YAAhJJbVmeHOBtL2VwavzXp/edit?ouid=109332440741070720191&rtpof=true&sd=true&usp=drive_link)
+
 ### ლექცია 8 — სითბომცვლელები: ეფსილონ-NTU მეთოდი
 
 - 🖥️ [სქრინი](https://drive.google.com/file/d/1h3h0zrrLFf_QqWusc5vc_gsWKeq7jJNc/view?usp=drive_link)
